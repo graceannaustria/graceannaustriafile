@@ -1,0 +1,30 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    cout << "How to make egg bread toast!\n\n";
+
+    int first = 1
+    ;cout << first;
+    cout << "Heat a pan with oil and spread it well.\n";
+
+    int Second = 2
+    ;cout << Second;
+    cout << "Dip the bread in the egg and place over the hot pan and cook until done.\n";
+
+    int Third = 3
+    ;cout << Third;
+    cout << "You can either pour the left over egg on the bread, and flip it or set the bread aside and pour the egg mixture to the pan first.\n";
+
+    int Fourth = 4
+    ;cout << Fourth;
+    cout << "Cook it until slightly set, and then place the bread over it and press. Cook until the egg is completely done on both sides.\n";
+
+    int Fifth = 5
+    ;cout << Fifth;
+    cout << "Serve egg bread toast hot.\n";
+
+
+    return 0;
